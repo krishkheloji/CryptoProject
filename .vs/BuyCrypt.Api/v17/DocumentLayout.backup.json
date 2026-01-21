@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBE403-2E8C-49D4-A49C-93C3390DE4BE}|BuyCrypt.Api\\BuyCrypt.Api.csproj|c:\\users\\finan\\downloads\\buycrypt\\buycrypt\\buycrypt.api\\buycrypt.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DBBE403-2E8C-49D4-A49C-93C3390DE4BE}|BuyCrypt.Api\\BuyCrypt.Api.csproj|solutionrelative:buycrypt.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EA75DC-B7AA-4BDA-ABC8-D099972093FF}|BuyCrypt.Infrastructure\\BuyCrypt.Infrastructure.csproj|c:\\users\\finan\\downloads\\buycrypt\\buycrypt\\buycrypt.api\\buycrypt.infrastructure\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EA75DC-B7AA-4BDA-ABC8-D099972093FF}|BuyCrypt.Infrastructure\\BuyCrypt.Infrastructure.csproj|solutionrelative:buycrypt.infrastructure\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34EA75DC-B7AA-4BDA-ABC8-D099972093FF}|BuyCrypt.Infrastructure\\BuyCrypt.Infrastructure.csproj|c:\\users\\finan\\downloads\\buycrypt\\buycrypt\\buycrypt.api\\buycrypt.infrastructure\\services\\cryptomarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34EA75DC-B7AA-4BDA-ABC8-D099972093FF}|BuyCrypt.Infrastructure\\BuyCrypt.Infrastructure.csproj|solutionrelative:buycrypt.infrastructure\\services\\cryptomarketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DBBE403-2E8C-49D4-A49C-93C3390DE4BE}|BuyCrypt.Api\\BuyCrypt.Api.csproj|c:\\users\\finan\\downloads\\buycrypt\\buycrypt\\buycrypt.api\\buycrypt.api\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DBBE403-2E8C-49D4-A49C-93C3390DE4BE}|BuyCrypt.Api\\BuyCrypt.Api.csproj|solutionrelative:buycrypt.api\\controllers\\marketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BuyCrypt.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Api\\appsettings.json",
+              "RelativeToolTip": "BuyCrypt.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-20T04:30:34.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Infrastructure\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "BuyCrypt.Infrastructure\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Infrastructure\\Services\\DashboardService.cs",
+              "RelativeToolTip": "BuyCrypt.Infrastructure\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:27:12.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MarketController.cs",
+              "DocumentMoniker": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Api\\Controllers\\MarketController.cs",
+              "RelativeDocumentMoniker": "BuyCrypt.Api\\Controllers\\MarketController.cs",
+              "ToolTip": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Api\\Controllers\\MarketController.cs",
+              "RelativeToolTip": "BuyCrypt.Api\\Controllers\\MarketController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:25:34.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoMarketService.cs",
+              "DocumentMoniker": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Infrastructure\\Services\\CryptoMarketService.cs",
+              "RelativeDocumentMoniker": "BuyCrypt.Infrastructure\\Services\\CryptoMarketService.cs",
+              "ToolTip": "C:\\Users\\finan\\Downloads\\BuyCrypt\\BuyCrypt\\BuyCrypt.Api\\BuyCrypt.Infrastructure\\Services\\CryptoMarketService.cs",
+              "RelativeToolTip": "BuyCrypt.Infrastructure\\Services\\CryptoMarketService.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:25:25.676Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

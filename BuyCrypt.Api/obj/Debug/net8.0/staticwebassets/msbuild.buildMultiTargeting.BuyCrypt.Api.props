@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BuyCrypt.Api.props" />
+</Project>
